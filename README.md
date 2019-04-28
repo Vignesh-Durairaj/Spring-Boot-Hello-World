@@ -1,8 +1,8 @@
 <img src="https://cdn-images-1.medium.com/max/1200/1*jMQ9lkY5SBnbcOlJB4aizg.png"
      alt="Spring Boot Logo"
      style="float: right; margin-left: 10px; width:50%; height:60%" 
-     width="30%"
-     height="30%"
+     width="25%"
+     height="25%"
      align="right"/>
 
 # Spring Boot - Hello World
